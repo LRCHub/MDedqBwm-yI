@@ -1,0 +1,34 @@
+# Billie Eilish – idontwannabeyouanymore
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:13.00] Don't be that way
+[00:17.00] Fall apart twice a day
+[00:21.00] I just wish you could feel what you say
+[00:27.00] Show, never tell
+[00:31.00] But I know you too well
+[00:35.00] Got a mood that you wish you could sell
+[00:41.00] If teardrops could be bottled
+[00:46.00] There'd be swimming pools filled by models
+[00:52.00] Told "a tight dress is what makes you a whore"
+[01:00.00] If "I love you" was a promise
+[01:05.00] Would you break it, if you're honest?
+[01:11.00] Tell the mirror what you know she's heard before
+[01:20.00] I don't wanna be you, anymore
+[01:31.00] Hand, hands getting cold
+[01:36.00] Losing feeling is getting old
+[01:41.00] Was I made from a broken mold?
+[01:47.00] Hurt, I can't shake
+[01:51.00] We've made every mistake
+[01:56.00] Only you know the way that I break
+[02:02.00] If teardrops could be bottled
+[02:07.00] There'd be swimming pools filled by models
+[02:13.00] Told "a tight dress is what makes you a whore"
+[02:21.00] If "I love you" was a promise
+[02:26.00] Would you break it, if you're honest?
+[02:32.00] Tell the mirror what you know she's heard before
+[02:41.00] I-I don't wanna be you
+[02:47.00] I don't wanna be you
+[02:55.00] I don't wanna be you, anymore
+```
